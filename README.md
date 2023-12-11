@@ -46,3 +46,6 @@ Email |	Name |	State |	Sequence Start Date |	Intro Email Date |	Follow Up Email 
 Please remember to update this table according to the sequence progression of the emails for each recipient. When adding a new recipient, add their Email, Name and Sequence Start Date, and leave the rest of the fields empty. The script will fill them in as it sends emails.
 
 Please make sure to review and comply with the [Google Cloud Platform Terms of Service](https://cloud.google.com/terms/) and the [Gmail Program Policies](https://developers.google.com/gmail/api/guides/policies) before using this script.
+
+
+Thank you!
